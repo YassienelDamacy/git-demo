@@ -1,2 +1,6 @@
 "console.log('Hello Git');" 
-"console.log('Updated in main');" 
+<<<<<<< HEAD
+"console.log('Updated in both');" 
+=======
+"console.log('Updated in both');" 
+>>>>>>> feature-login
